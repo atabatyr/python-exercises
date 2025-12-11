@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 11:54:19 2020
-
-@author: saura
+@author: A
 """
 li1 = [1,2,3]
 set1 = {4,5,6}

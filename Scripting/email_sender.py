@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 25 12:48:50 2020
-
-@author: saura
+@author: A
 """
 import smtplib
 from email.message import EmailMessage

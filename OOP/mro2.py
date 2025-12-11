@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 21:04:09 2020
-
-@author: saura
+@author: A
 """
 class X:pass
 class Y:pass

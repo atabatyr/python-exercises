@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 20 11:06:14 2020
-
-@author: saura
+@author: A
 """
 try:
     age = int(input("age: "))

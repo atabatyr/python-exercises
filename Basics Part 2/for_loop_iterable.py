@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 15:38:50 2020
-
-@author: saura
+@author: A
 """
 for i in 'Hello World':
     print(i)

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 17 14:14:40 2020
-
-@author: saura
+@author: A
 """
 def test(a):
     """

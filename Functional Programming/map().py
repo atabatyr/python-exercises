@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 11:39:00 2020
-
-@author: saura
+@author: A
 """
 def multiply_by2(item):
     return item*2

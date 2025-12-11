@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 11:51:27 2020
-
-@author: saura
+@author: A
 """
 def only_even(item):
     return item % 2 == 0

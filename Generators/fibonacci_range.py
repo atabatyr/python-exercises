@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 20 13:15:14 2020
-
-@author: saura
+@author: A
 """
 def fib(num):
     a = 0

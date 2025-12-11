@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 12:30:51 2020
-
-@author: saura
+@author: A
 """
 a = True
 b = False

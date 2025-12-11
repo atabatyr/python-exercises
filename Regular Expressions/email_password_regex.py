@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 23 18:18:40 2020
-
-@author: saura
+@author: A
 """
 import re
 

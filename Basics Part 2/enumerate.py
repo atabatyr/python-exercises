@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 17:11:25 2020
-
-@author: saura
+@author: A
 """
 # we can pass any iterable to enumerate, and it will store them as separate tuple with index starting from 0.
 for i in enumerate('Hello World'):

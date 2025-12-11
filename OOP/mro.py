@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 20:43:40 2020
-
-@author: saura
+@author: A
 """
 # Method Resolution Order
 # it tells the order of the preferences for classes

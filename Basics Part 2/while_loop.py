@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 17:13:44 2020
-
-@author: saura
+@author: A
 """
 i = 0
 while i < 5:

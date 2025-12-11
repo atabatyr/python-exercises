@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 14:18:03 2020
-
-@author: saura
+@author: A
 """
 class User():
     def __init__(self, email):

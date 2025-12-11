@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 11:16:03 2020
-
-@author: saura
+@author: A
 """
 class PlayerCharacter:
     membership = True   # Class object attribute, its an attribute of PlayerCharacter. It is a static attribute

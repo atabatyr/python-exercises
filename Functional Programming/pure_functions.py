@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 11:29:05 2020
-
-@author: saura
+@author: A
 """
 def multiply_by2(li):
     new_li = []

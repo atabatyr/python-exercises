@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 22 13:34:48 2020
-
-@author: saura
+@author: A
 """
 import sys
 from random import randint

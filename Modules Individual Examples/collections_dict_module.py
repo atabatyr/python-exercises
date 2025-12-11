@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 22 18:19:43 2020
-
-@author: saura
+@author: A
 """
 from collections import Counter, defaultdict, OrderedDict
 

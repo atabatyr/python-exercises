@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 14:30:53 2020
-
-@author: saura
+@author: A
 """
 print(dir(list))
 

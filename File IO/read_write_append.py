@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 23 13:27:09 2020
-
-@author: saura
+@author: A
 """
 with open("happy\happy.txt", mode = 'a') as my_file:
     text = my_file.write("I am HAPPY!")

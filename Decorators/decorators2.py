@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 16:57:31 2020
-
-@author: saura
+@author: A
 """
 def hello(func):
     func()

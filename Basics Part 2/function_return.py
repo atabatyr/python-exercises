@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 17 14:02:18 2020
-
-@author: saura
+@author: A
 """
 def sum(num1, num2):
     def another_func(n1,n2):

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 09:34:05 2020
-
-@author: saura
+@author: A
 """
 #OOP
 class BigObject:

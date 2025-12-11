@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 14:14:52 2020
-
-@author: saura
+@author: A
 """
 class Pets():
     animals = []

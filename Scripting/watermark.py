@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 25 11:53:26 2020
-
-@author: saura
+@author: A
 """
 import PyPDF2
 
