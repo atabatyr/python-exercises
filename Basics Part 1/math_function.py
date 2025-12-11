@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 11:49:24 2020
 
-@author: saura
+@author: A
 """
 print(round(3.1))
 print(round(3.5))

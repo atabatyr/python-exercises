@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 19:33:39 2020
-
-@author: saura
+@author: A
 """
 is_cool = True
 is_cool = False

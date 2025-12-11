@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 11:33:18 2020
-
-@author: saura
+@author: A
 """
 my_tuple = (1,2,3,4,5,2)
 print(my_tuple[0])

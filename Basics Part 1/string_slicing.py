@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 13:29:46 2020
 
-@author: saura
+@author: A
 """
 name = "0123456789"
 

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 13:27:36 2020
-
-@author: saura
+@author: A
 """
 name = 'john'
 age = 12

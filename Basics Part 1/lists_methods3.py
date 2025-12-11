@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 10:08:56 2020
 
-@author: saura
+@author: A
 """
 li = [1,2,5,6,7,4,56,38,0]
 print(li.sort())
