@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 17:30:23 2020
-
-@author: saura
+@author: A
 """
 # 'continue' will skip the lines below it and continue to loop.
 for i in range(0,5):

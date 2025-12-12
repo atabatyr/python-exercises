@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 22 11:53:21 2020
-
-@author: saura
+@author: A
 """
 from utilities import mult, divide
 from shopping.shopping_cart import buy

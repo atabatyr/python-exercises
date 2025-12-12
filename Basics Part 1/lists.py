@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 19:54:30 2020
 
-@author: saura
+
+@author: A
 """
 li = [1, 2.5, "hello", True]
 print(li)

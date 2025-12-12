@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 20 10:56:20 2020
-
-@author: saura
+@author: A
 """
 # we can stop the program by raising our own errors.
 

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 12:11:32 2020
-
-@author: saura
+@author: A
 """
 
 from functools import reduce

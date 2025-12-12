@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 17:31:49 2020
-
-@author: saura
+@author: A
 """
 def my_decorator(func):
     def wrap_func(*args, **kwargs):

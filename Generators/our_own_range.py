@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 20 12:55:26 2020
-
-@author: saura
+@author: A
 """
 class OurOwnRange():
     current = 0

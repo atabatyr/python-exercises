@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 22 13:20:18 2020
-
-@author: saura
+@author: A
 """
 import random
 

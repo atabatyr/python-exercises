@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 13:43:43 2020
 
-@author: saura
+@author: A
 """
-name = "saurabh"
+name = "Adam"
 # name[0] = "g" 
 # the above statement gives error.
-name = name + " kumar"
+name = name + " Brian"
 print(name)

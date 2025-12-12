@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 17 10:51:53 2020
-
-@author: saura
+@author: A
 """
 # Positional Parameters
 def say_hello(name, age):

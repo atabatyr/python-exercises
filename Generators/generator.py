@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 20 11:14:15 2020
-
-@author: saura
+@author: A
 """
 # here we are generating our own generator function, just like a range().
 

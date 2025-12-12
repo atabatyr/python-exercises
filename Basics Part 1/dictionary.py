@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 10:35:42 2020
 
-@author: saura
+@author: A
 """
 my_dict = {
     'a' : [1,2,3],

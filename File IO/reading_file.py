@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 23 12:38:53 2020
-
-@author: saura
+@author: A
 """
 my_file = open('test.txt')
 print(my_file)

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 12:23:05 2020
-
-@author: saura
+@author: A
 """
 class PlayerCharacter:
     def __init__(self, name, age):

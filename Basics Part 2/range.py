@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 17:05:37 2020
-
-@author: saura
+@author: A
 """
 print(range(100))
 print(list(range(100)))

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 27 13:59:58 2020
-
-@author: saura
+@author: A
 """
 from flask import Flask, render_template, request, redirect
 import csv

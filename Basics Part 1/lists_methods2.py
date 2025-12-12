@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 21:02:10 2020
 
-@author: saura
+@author: A
 """
 li = ['a','b','c','d','e','d']
 print(li.index('d')) # if that value is not there in the list, then it will throw an error and program will stop running.

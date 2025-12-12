@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 11:10:07 2020
 
-@author: saura
+@author: A
 """
 user = {
         "name": "john",

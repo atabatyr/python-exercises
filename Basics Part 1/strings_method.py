@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 19:28:17 2020
 
-@author: saura
+@author: A
 """
 quote = "to be or not to be"
 print(quote.capitalize())

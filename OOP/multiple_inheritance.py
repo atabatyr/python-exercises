@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 20:23:27 2020
-
-@author: saura
+@author: A
 """
 class User():
     def signed_in(self):

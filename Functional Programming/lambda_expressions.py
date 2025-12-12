@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 12:34:58 2020
-
-@author: saura
+@author: A
 """
 import functools
 

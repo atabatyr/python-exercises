@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 17:44:13 2020
-
-@author: saura
+@author: A
 """
 from time import time
 

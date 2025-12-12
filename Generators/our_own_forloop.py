@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 20 12:50:31 2020
-
-@author: saura
+@author: A
 """
 def my_own_forloop(iterable):
     iterator = iter(iterable)

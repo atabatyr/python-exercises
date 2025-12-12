@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 23 13:49:36 2020
-
-@author: saura
+@author: A
 """
 from translate import Translator
 

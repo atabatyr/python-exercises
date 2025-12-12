@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 14:36:41 2020
-
-@author: saura
+@author: A
 """
 class ActionFig():
     def __init__(self, color, age):

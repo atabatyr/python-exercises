@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 12:45:36 2020
-
-@author: saura
+@author: A
 """
-first_name = "Saurabh"
-last_name = "Agarwal"
+first_name = "Adam"
+last_name = "Matranga"
 full_name = first_name + " " + last_name
 print(full_name)
 

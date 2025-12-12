@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 20 10:44:36 2020
-
-@author: saura
+@author: A
 """
 def division_fn(num1, num2):
     try: 

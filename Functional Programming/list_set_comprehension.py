@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 13:51:49 2020
-
-@author: saura
+@author: A
 """
 my_list = []
 

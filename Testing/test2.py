@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 24 13:23:16 2020
-
-@author: saura
+@author: A
 """
 import unittest
 import script

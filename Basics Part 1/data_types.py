@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 11:39:08 2020
-
-@author: saura
+@author: A
 """
 # fundamental data types
 print(type(2 + 4))

@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 16 11:55:22 2020
 
-@author: saura
+@author: A
 """
 my_set = {1,2,3,4,5,5,5}
 my_set.add(100)

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 17 15:37:35 2020
-
-@author: saura
+@author: A
 """
 def outer():
     x = 'outer'

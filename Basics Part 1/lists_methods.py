@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 15 20:40:14 2020
 
-@author: saura
+@author: A
 """
 print("\nappend")
 li = [1,2,3,4,5]

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 18 19:21:12 2020
-
-@author: saura
+@author: A
 """
 class SuperList(list):
    def __len__(self):

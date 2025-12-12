@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 17 15:12:29 2020
-
-@author: saura
+@author: A
 """
 a = 1
 
